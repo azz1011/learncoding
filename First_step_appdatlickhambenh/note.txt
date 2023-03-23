@@ -1,0 +1,26 @@
+#6 : các tag cần thiết
+    Head: nhúng các liên kết 
+        link (css)
+        script (javascript)
+    body
+        h1->h6 tiêu đề
+        p: khai báo đoạn văn kết hợp với thuộc tính 
+        div: chiều rồi bằng chiều dài trang web, chiều cao fit với độ rộng của dât trong nó 
+        span: fit with content 
+        a = anchor : link liên kết
+        img: ảnh 
+        form: 
+            button
+            input
+            select lựa chọn
+        table 
+        li : list 
+        ol : order list : có thứ tự 
+        ul : ko có thứ tự 
+
+#8: có thể nhận nhiều class 1 lúc chỉ cần phân biệt bởi dấu space
+
+
+phím tắt : 
+ctrl + sapce: gợi ý 
+ctrl + / : note 
